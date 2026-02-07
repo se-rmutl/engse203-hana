@@ -1283,6 +1283,11 @@ describe('Data Processing', () => {
 });
 ```
 
+**รัน test:**
+```bash
+npm test dataProcessing.test.js
+```
+
 ---
 
 ## 📊 Step 5: Coverage Report
